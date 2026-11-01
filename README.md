@@ -47,5 +47,6 @@ To redo a scene's voiceover after editing its line, delete its `.json` in `outpu
 | `raccoon_vs_spider` | Your raccoon vs our spider (USA vs Australia) |
 | `daintree_night` | $1 million to spend one night in the Daintree |
 | `aussie_tier_list` | Aussie animals ranked by how dead you'd be (brainrot tier list, S to F) |
+| `bolivia_navy` | Why does Bolivia have a navy despite being landlocked? (brainrot split-screen explainer) |
 
 Generated media in `output/` is git-ignored.
