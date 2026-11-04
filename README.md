@@ -50,5 +50,6 @@ To redo a scene's voiceover after editing its line, delete its `.json` in `outpu
 | `bolivia_navy` | Why does Bolivia have a navy despite being landlocked? (brainrot split-screen explainer) |
 | `old_new_year` | The country where people celebrate New Year 13 days later (Russia, brainrot split-screen explainer) |
 | `aussie_fake_or_real` | Things Americans think are fake about Australia (real-or-fake verdicts, brainrot split-screen, quieter music and sfx) |
+| `bite_countdown` | How long you'd survive after a bite from... (countdown timer per animal, ambulance gameplay, low dramatic music) |
 
 Generated media in `output/` is git-ignored.
